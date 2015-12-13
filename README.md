@@ -1,5 +1,6 @@
 ## Notes:  Vish Yella 12/12/2015
-In order to run the R scripts in this folder, household_power_consumption.txt files must be present in the current working directory
+In order to run the R scripts in this folder, household_power_consumption.txt file must be present in the current working directory
+These R scripts solve the below assignment.
 
 
 ## Introduction
